@@ -1,1 +1,11 @@
-
+﻿Student ID;Gender;Study Hours per Week;Attendance (%);Math Score;English Score;Science Score
+ST001;Male;4.5;92;85;78;88
+ST002;Female;6.0;96;91;89;94
+ST003;Male;2.0;81;70;73;68
+ST004;Female;5.5;94;88;92;86
+ST005;Male;3.0;85;76;71;74
+ST006;Female;7.0;98;95;91;96
+ST007;Male;4.0;89;82;80;84
+ST008;Female;2.5;78;65;69;72
+ST009;Male;5.0;93;87;84;90
+ST010;Female;3.5;87;79;82;77
